@@ -7,7 +7,7 @@
   - [Binary Search Trees & Trees]
   - [Sorts](https://github.com/Dokkaem/Class-Sorting)
 - <b> Python </b>
-  - [Simple Space Invaders Game](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Simple Space Invaders Game](https://github.com/Dokkaem/Python)
 - <b>GO</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
