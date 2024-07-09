@@ -5,7 +5,7 @@
 - <b> C++ Data Structures and Algorithms Practice </b>
   - [Maps & Graphs](https://github.com/Dokkaem/CityTimes)
   - [Binary Search Trees & Trees]
-  - [Sorts]
+  - [Sorts](https://github.com/Dokkaem/Class-Sorting)
 - <b> Python </b>
   - [Simple Space Invaders Game](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>GO</b>
