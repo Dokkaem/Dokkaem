@@ -3,7 +3,7 @@
 <h2> Programming Projects:</h2>
 
 - <b> C++ Data Structures and Algorithms Practice </b>
-  - [Maps & Graphs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Maps & Graphs](https://github.com/Dokkaem/CityTimes)
   - [Binary Search Trees & Trees]
   - [Sorts]
 - <b> Python </b>
