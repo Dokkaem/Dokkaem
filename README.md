@@ -2,20 +2,18 @@
 
 <h2> Programming Projects:</h2>
 
-- <b> C++ Data Structures and Algorithms Practice </b>
-  - [Maps & Graphs](https://github.com/Dokkaem/CityTimes)
-  - [Binary Search Trees & Trees]
-  - [Sorts](https://github.com/Dokkaem/Class-Sorting)
-- <b> Python </b>
-  - [Simple Space Invaders Game](https://github.com/Dokkaem/Python)
-- <b>GO</b>
-  - [Portscanners]()
-  - [TCP_Proxy]()
-  - [WebServer]()
-
-
+✬ <b> C++ Data Structures and Algorithms Practice </b>
+  ✬ [Maps & Graphs](https://github.com/Dokkaem/CityTimes)
+  ✬ [Binary Search Trees & Trees]
+  ✬ [Sorts](https://github.com/Dokkaem/Class-Sorting)
+✬ <b> Python </b>
+  ✬ [Simple Space Invaders Game](https://github.com/Dokkaem/Python)
+✬ <b>GO</b>
+  ✬ [WebServer]()
 
  <h3> Cybersecurity Projects </h3>
+  ✬ [Portscanners]()
+  ✬ [TCP_Proxy]()
  <h4> Certifications </h4>
 
 
